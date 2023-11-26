@@ -1,0 +1,15 @@
+C:\Users\hp\desktop\abdulazeez\mySmallProject\obj\Debug\net7.0\mySmallProject.csproj.AssemblyReference.cache
+C:\Users\hp\desktop\abdulazeez\mySmallProject\obj\Debug\net7.0\mySmallProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\desktop\abdulazeez\mySmallProject\obj\Debug\net7.0\mySmallProject.AssemblyInfoInputs.cache
+C:\Users\hp\desktop\abdulazeez\mySmallProject\obj\Debug\net7.0\mySmallProject.AssemblyInfo.cs
+C:\Users\hp\desktop\abdulazeez\mySmallProject\obj\Debug\net7.0\mySmallProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\desktop\abdulazeez\mySmallProject\bin\Debug\net7.0\mySmallProject.exe
+C:\Users\hp\desktop\abdulazeez\mySmallProject\bin\Debug\net7.0\mySmallProject.deps.json
+C:\Users\hp\desktop\abdulazeez\mySmallProject\bin\Debug\net7.0\mySmallProject.runtimeconfig.json
+C:\Users\hp\desktop\abdulazeez\mySmallProject\bin\Debug\net7.0\mySmallProject.dll
+C:\Users\hp\desktop\abdulazeez\mySmallProject\bin\Debug\net7.0\mySmallProject.pdb
+C:\Users\hp\desktop\abdulazeez\mySmallProject\obj\Debug\net7.0\mySmallProject.dll
+C:\Users\hp\desktop\abdulazeez\mySmallProject\obj\Debug\net7.0\refint\mySmallProject.dll
+C:\Users\hp\desktop\abdulazeez\mySmallProject\obj\Debug\net7.0\mySmallProject.pdb
+C:\Users\hp\desktop\abdulazeez\mySmallProject\obj\Debug\net7.0\mySmallProject.genruntimeconfig.cache
+C:\Users\hp\desktop\abdulazeez\mySmallProject\obj\Debug\net7.0\ref\mySmallProject.dll
